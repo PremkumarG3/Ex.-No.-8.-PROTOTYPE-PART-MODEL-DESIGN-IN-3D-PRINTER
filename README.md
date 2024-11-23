@@ -47,12 +47,9 @@
 
 ## Output:
 ![Screenshot 2024-04-22 183014](https://github.com/akash7812/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/146819826/0bb28d5a-2018-4d33-8eca-0d5d69e82368)
-![3](https://github.com/akash7812/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/146819826/ec540c5b-1706-4f21-ba34-65a3073153a9)
-![4](https://github.com/akash7812/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/146819826/90e91004-4c18-4470-ace4-4ed2f972306d)
-![2](https://github.com/akash7812/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/146819826/acd3279a-e81b-4194-8927-cad8b96dea34)
-
-
-
+![Screenshot 2024-11-23 131821](https://github.com/user-attachments/assets/6ea97315-3097-4a30-8f0c-c999d645872a)
+![Screenshot 2024-11-23 131833](https://github.com/user-attachments/assets/eee5d5eb-0c3b-4e9c-b2eb-bad3cfb84d1f)
+![Screenshot 2024-11-23 131843](https://github.com/user-attachments/assets/54aac8bf-eccc-45f7-ab40-f02e7d5cab75)
 
 ### Name:PREM KUMAR G
 ### Register Number:212223230158
